@@ -15,6 +15,11 @@ Dit doen we op basis van enkele testen (met Jest) te schrijven.
 In `./src/index.spec` zijn er enkele testen uitgeschreven die geimplementeerd moeten worden.
 De `./src/data.ts` file bevat data waarop je je testen kan schrijven.
 
+## Doel van de opdracht
+
+Het doel van deze opdracht is om vertrouwd te raken met het draaien van TypeScript (front-end) testen met behulp van [Jest](https://jestjs.io/).
+We doen dit op een manier om terwijl enkele nuttige functies van JavaScript aan bod te laten komen.
+
 ## Nuttige links
 
 - [TypeScript documentatie](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html)
