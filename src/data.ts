@@ -1,4 +1,6 @@
-const persons = [
+import { Person, Pet } from "./types";
+
+export const persons : (Person)[] = [
   {
     id: 1,
     firstName: "John",
@@ -27,7 +29,7 @@ const persons = [
   },
 ];
 
-const pets = [
+export const pets: (Pet)[] = [
   {
     id: 10,
     name: "Bobby",
